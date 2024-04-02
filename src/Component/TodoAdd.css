@@ -1,0 +1,18 @@
+@media only screen and (max-width: 576px) {
+    /* Styles for extra small devices */
+    #div{
+        
+        height: 300px;
+        width: 10000px
+    }
+    #div>.input{
+       width: 300px;
+    }
+    #btn{
+       margin-right: 300px;
+      
+        margin-left: none;
+    }
+  }
+
+ 
